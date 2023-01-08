@@ -1,3 +1,3 @@
 # Demo
 
- slicng data
+ slicing data
